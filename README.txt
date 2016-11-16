@@ -100,3 +100,7 @@ Support gradle dans idea
 gradle cleanIdea
 gradle idea
 
+git
+===
+
+Annulation de commit : git reset HEAD~
