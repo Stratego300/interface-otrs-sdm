@@ -1,0 +1,38 @@
+'{
+  "CustomerUser": "4704DET",
+  "TicketNumber": "2016041532000072",
+  "TicketID": 29478,
+  "Ticket": {
+    "PriorityID": 5,
+    "ServiceID": 3,
+    "Queue": "DSI::Assistance::Hotline",
+    "QueueID": 12,
+    "State": "open",
+    "Service": "DSI::Applications SI",
+    "Title": "RE: MEP RENVOI D'APPEL",
+    "Type": "01-Incident",
+    "Responsible": "root@localhost",
+    "StateID": 4,
+    "ResponsibleID": 1,
+    "OwnerID": 1,
+    "LockID": 1,
+    "Owner": "root@localhost",
+    "CustomerUser": "4704DET",
+    "TypeID": 3,
+    "Lock": "unlock",
+    "Priority": "3 high"
+  },
+  "Article": {
+    "MimeType": "text/plain",
+    "Subject": "TEST KBR4",
+    "ContentType": "text/plain; charset=utf8",
+    "Charset": "utf8",
+    "ArticleTypeID": 9,
+    "SenderTypeID": 1,
+    "SenderType": "agent",
+    "ArticleType": "note-internal",
+    "From": "\"Kenichi BRUN\" <Kenichi.BRUN@opt.nc>",
+    "Body": "Les actions nécessaires au traitement de votre demande ont été prises en\ncharge.\n\nVotre ticket 2016041532000072 est désormais fermé.\n\nN'hésitez pas à contacter votre support si vous avez besoin d'informations\nsupplémentaires.\n"
+  },
+  "toto": "titi"
+}'

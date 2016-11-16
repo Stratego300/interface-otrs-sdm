@@ -1,0 +1,13 @@
+'{
+    "fields": {
+       "project":
+       {
+          "key": "OTRS"
+       },
+       "summary": "TEST KBR",
+       "description": "TEST KBR",
+       "issuetype": {
+          "name": "Tâche"
+       }
+   }
+}'
